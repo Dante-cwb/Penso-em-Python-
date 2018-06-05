@@ -1,4 +1,4 @@
-# PensEo-em-Python-
+# Pense-em-Python-
 Repositório destinado ao estudo e resumo dos capítulos do livro Pense em Python - pense como cientista da computação.
 Esse iniciativa pode virar um grupo de estudo se mais alguém estiver interessado pelo assunto.
 Cada capítulo terá um breve resumo e os exercícios propostos feitos.
